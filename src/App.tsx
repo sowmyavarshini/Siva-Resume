@@ -29,8 +29,8 @@ import {
 } from "lucide-react";
 import sivaImg from "./assets/SIVA-IMG.jpeg";
 import shakespeareImg from "./assets/SHAKESPEARE.png";
-import positioningImg from "./assets/positioning.png";
-import scalableImg from "./assets/scalable.png";
+import positioningImg from "./assets/POSITIONING.png";
+import scalableImg from "./assets/SCALABLE.png";
 import resume from "./assets/Siva_Subramanian - Resume.pdf";
 import titan from "./assets/Titan.jpg";
 import elec1 from "./assets/Election Commission - 1.jpg";

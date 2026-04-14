@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { useRef, useState } from "react";
 import { CTA } from "../components/CTA";
 import demoboostImage from "../assets/Everstage.png";
-
 import closingthoughts from "../assets/Closing-Thoughts.gif";
 import plantemp from "../assets/AE-comp-plan-template.webp";
 import rev from "../assets/revops.jpeg";
