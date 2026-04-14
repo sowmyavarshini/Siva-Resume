@@ -419,7 +419,7 @@ const ScrollToTop = () => {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Siva-Resume">
       <ScrollToTop />
       <div className="relative flex min-h-screen w-full flex-col overflow-x-hidden selection:bg-primary-fixed selection:text-on-primary-fixed">
         <Routes>
