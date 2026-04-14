@@ -28,7 +28,7 @@ import {
   X,
 } from "lucide-react";
 import sivaImg from "./assets/SIVA-IMG.jpeg";
-import shakespeareImg from "./assets/shakespeare.png";
+import shakespeareImg from "./assets/SHAKESPEARE.png";
 import positioningImg from "./assets/positioning.png";
 import scalableImg from "./assets/scalable.png";
 import resume from "./assets/Siva_Subramanian - Resume.pdf";
